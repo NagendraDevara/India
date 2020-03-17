@@ -94,4 +94,6 @@ $(document).ready(function () {
     }
 });
 
-
+function restartGame(){
+window.location.reload();
+}
